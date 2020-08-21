@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.tope{
+  padding-top: 50px;
+  padding-bottom: 0px;
+}
+
+.texto{
+  text-align: center;
+}
+
+.boton{
+  /* display: flex; */
+  float: right;
+  padding-right: 200px;
+  padding-bottom: 20px;
+}
