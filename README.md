@@ -1,3 +1,9 @@
+
+Este proyecto fue realizado con React, Botstrap y Reactstrap mediante el uso he implementación de Hooks con useState y setState
+
+Tabla CRUD de Usuarios que agrega usuarios, lee usuarios, edita usuarios y elimina usuarios mediante la implementación de modales para agregar los parametros de la tabla usuarios.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
